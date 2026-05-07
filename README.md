@@ -1,7 +1,7 @@
 # Talleres Guiados — Kotlin + Jetpack Compose
 
 **Programación Móvil · Universidad Libre · Facultad de Ingeniería de Sistemas**  
-Docente: Raul Gaviria · Estudiante: Felipe Gallego Rengifo · 2025–2026
+Docente: Raul Gaviria · Estudiante: Felipe Gallego Rengifo y Jorge Andres Lopez · 2025–2026
 
 Serie de cinco talleres prácticos de dificultad progresiva para la transición
 del paradigma XML al paradigma declarativo con Kotlin + Jetpack Compose,
